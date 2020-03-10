@@ -1,4 +1,4 @@
-<p align="center"> Distance Sperated Automatic Labeled LiDAR Data Terms of Use </p>
+<p align="center"> Automatic Labeled LiDAR Sequence Data Terms of Use </p>
 <p align="right"> Mar 10, 2020 </p>
 
 The users of the Automatic Labeled LiDAR Sequence Data must abide by the following Terms of Use:
