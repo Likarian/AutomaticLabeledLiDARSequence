@@ -12,10 +12,10 @@ The paper of the Automatic Labeled LiDAR Sequence Data :
 ---
 # How to use
 ### Dependencies
-* Python 3.6.5
-* Tensorflow 1.9.0
+* Python 3.6.6
+* Tensorflow 1.13.0-rc0
 * Keras 2.2.4
-* Cuda 9.0
+* Cuda 10.0
 
 ### Run DownloadAndUnzip.sh
 In your own directory, please run the following command in terminal.
