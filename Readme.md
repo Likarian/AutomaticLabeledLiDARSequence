@@ -25,7 +25,7 @@ In your own directory, please run the following command in terminal.
 ### Sample code
 In directory of './TestSet', you can see sample code for performance evaluation. When you want to check sample code, please run the following command in that directory.
 <br>
-> python Testgauss_Real(or Sim).py 
+> python Testgauss_Real(or Gen).py 
 
 ---
 ### Directory Specification
