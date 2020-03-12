@@ -7,7 +7,7 @@ Automatic Labeled LiDAR Sequence Data are novel data with human label. The data 
 * TestSet (4.6GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TestSet.tar.gz
   
 The paper of the Automatic Labeled LiDAR Sequence Data :  
- **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Learning-Based Human Segmentation and Velocity Estimation Using Automatic Labeled LiDAR Sequence for Training", arxiv, 2020.** ([link]())
+ **Wonjik Kim, Masayuki Tanaka, Masatoshi Okutomi, Yoko Sasaki, "Learning-Based Human Segmentation and Velocity Estimation Using Automatic Labeled LiDAR Sequence for Training", arxiv, 2020.** ([link](https://arxiv.org/abs/2003.05093))
 
 ---
 # How to use
