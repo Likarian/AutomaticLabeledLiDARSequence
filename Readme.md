@@ -2,7 +2,7 @@
 
 Automatic Labeled LiDAR Sequence Data are novel data with human label. The data contain various generated LiDAR sequence with human label. To download the data, please check your free disk space enough and run 'DownloadAndUnzip.sh'. You can also download the data by the following URL.
 
-* TrainData (27.2GB) : http://www.ok.sc.e.titech.ac.jp/res/LHD/TrainData.tar.gz
+* TrainData (27.2GB) : http://www.ok.sc.e.titech.ac.jp/res/data/LHD/TrainData.tar.gz
 * TrainDataAddit (166GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TrainDataAddit.tar.gz
 * TestSet (4.6GB) : https://data.airc.aist.go.jp/AutomaticLabeledLiDARData/TestSet.tar.gz
   
