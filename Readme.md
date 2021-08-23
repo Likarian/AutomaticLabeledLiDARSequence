@@ -35,8 +35,8 @@ In directory of './TestSet', you can see sample code for performance evaluation.
         * h5file : *containing 32K (32 frames, 1K sequences) hdf5 files*
 
 * TrainDataAddit
-    * h5file : *containing 32K (32 frames, 6K sequences) hdf5 files*
-    * xml : *containing 32K (32 frames, 6K sequences) xml files*
+    * h5file : *containing 192K (32 frames, 6K sequences) hdf5 files*
+    * xml : *containing 192K (32 frames, 6K sequences) xml files*
 
 * TestSet
     * TestCode
